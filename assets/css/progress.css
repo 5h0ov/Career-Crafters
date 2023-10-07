@@ -68,7 +68,8 @@ body{
 }
 
 img{
-    height: 50px;
+    height: 20px;
+    width: 20px;
 }
 
 .container h1{
