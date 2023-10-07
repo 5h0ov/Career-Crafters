@@ -52,6 +52,10 @@ body{
     transition: .5s ease;
 }
 
+img{
+    height: 50px;
+}
+
 .container h1{
     font-size: 50px;
     color: var(--second-color);
