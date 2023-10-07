@@ -41,6 +41,21 @@
     font-family: 'Poppins', sans-serif;
 }
 
+/* BACK BUTTON */
+button{
+    margin-left: 10px;
+    font-size: 15px;
+    color: white;
+    border-radius: 6px;
+    background-color: #4C50D3;
+    padding: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+button:hover{
+    background-color: #5029bc;
+}
+
 html{
     scroll-behavior: smooth;
 }
@@ -48,7 +63,7 @@ html{
 body{
     color: var(--first-color);
     background: var(--body-bg-color);
-    margin: 2rem 0 0 0;
+    margin: 1rem 0 0 0;
     transition: .5s ease;
 }
 
