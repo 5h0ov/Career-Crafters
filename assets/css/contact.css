@@ -6,14 +6,31 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
-body {
-  min-height: 100vh;
+body{
+    background: #E7E8FF;
+}
+#main{
+    min-height: 100vh;
   width: 100%;
   background: #E7E8FF;
   display: flex;
   align-items: center;
   justify-content: center;
 }
+/* BACK BUTTON */
+button{
+    font-size: 15px;
+    color: white;
+    border-radius: 6px;
+    background-color: #4C50D3;
+    padding: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+button:hover{
+    background-color: #5029bc;
+}
+
 .container {
   max-width: 1100px;
   width: 100%;
