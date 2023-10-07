@@ -10,6 +10,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   </head>
   <body>
+    <div class="back">
+    <button onclick="goBack()"><i class="fas fa-arrow-left"></i>   Back To Home</button>
+    </div>
+
+    <script>
+    function goBack() {
+    window.history.back();
+    }
+    </script>
+    <section id="main">
     <div class="container">
       <div class="content">
         <div class="left-side">
@@ -53,5 +63,6 @@
         </div>
       </div>
     </div>
+    </section>
   </body>
 </html>
