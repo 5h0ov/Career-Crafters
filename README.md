@@ -6,7 +6,7 @@
 
 # About Career-Crafters 🚀
 
-"Code-crafters" is your one-stop destination for career growth and education exploration. Our mission is to empower job seekers, students, and professionals with access to job opportunities, internships, company insights, and valuable resources.
+"Career-crafters" is your one-stop destination for career growth and education exploration. Our mission is to empower job seekers, students, and professionals with access to job opportunities, internships, company insights, and valuable resources.
 
 🎯 Discover job listings, internships, and company profiles.
 📈 Track your application progress and receive job notifications.
@@ -30,4 +30,4 @@
 
 ## 🏆 **Part of SoftCode Hack 2.0** 🏆
 
-We are excited to be participating in SoftCode Hack 2.0, an innovative hackathon where we are dedicated to building and expanding "Code-crafters" to empower users in their career journeys.
+We are excited to be participating in SoftCode Hack 2.0, an innovative hackathon where we are dedicated to building and expanding "Career-crafters" to empower users in their career journeys.
