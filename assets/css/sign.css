@@ -82,7 +82,7 @@ button:hover{
     margin: 0 auto;
   }
   
-  .ion-logo-apple {
+  .ion-logo-github {
     font-size: 1.65rem;
     line-height: inherit;
     margin-right: 0.5rem;
@@ -94,7 +94,7 @@ button:hover{
     margin-right: 0.5rem;
     color: var(--color-red);
   }
-  .ion-logo-facebook {
+  .ion-logo-linkedin {
     font-size: 1.65rem;
     line-height: inherit;
     margin-right: 0.5rem;
