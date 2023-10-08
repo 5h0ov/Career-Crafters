@@ -2,7 +2,7 @@
 
 ## Introduction 🌟
 
-"Code-crafters" is a powerful platform designed to simplify the process of job hunting, career development, and education exploration. It offers a range of features to assist job seekers, students, and professionals in their journey towards success. 🌐💼
+"Career-Crafters" is a powerful platform designed to simplify the process of job hunting, career development, and education exploration. It offers a range of features to assist job seekers, students, and professionals in their journey towards success. 🌐💼
 
 # About Career-Crafters 🚀
 
