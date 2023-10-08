@@ -4,7 +4,7 @@
 
 "Code-crafters" is a powerful platform designed to simplify the process of job hunting, career development, and education exploration. It offers a range of features to assist job seekers, students, and professionals in their journey towards success. 🌐💼
 
-# About Code-crafters 🚀
+# About Career-Crafters 🚀
 
 "Code-crafters" is your one-stop destination for career growth and education exploration. Our mission is to empower job seekers, students, and professionals with access to job opportunities, internships, company insights, and valuable resources.
 
